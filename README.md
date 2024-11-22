@@ -69,10 +69,12 @@ La estructura de las carpetas y archivos es la siguiente:
 │
 ├── /public             # Archivos públicos como imágenes y el HTML base
 ├── /src                # Código fuente de la aplicación
-│   ├── /components     # Componentes React reutilizables
-│   ├── /pages          # Páginas de la aplicación
-│   ├── /styles         # Archivos de estilo CSS o Tailwind
-│   └── App.tsx         # Componente principal
+│   ├── /components     # Componentes React reutilizables 
+│   ├── /types          # Archivos de Tipos
+│   └── App.tsx         # Componente de la App
+│   └── main.tsx        # Componente principal
+│   └── index.html      # Componente HTML Principal
+│   └── index.css       # Archivo de Estilos con Configuracion de Tailwind
 ├── package.json        # Archivo de configuración de dependencias
 ├── tsconfig.json       # Configuración de TypeScript
 └── README.md           # Este archivo
