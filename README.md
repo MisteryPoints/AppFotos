@@ -13,15 +13,14 @@ Este proyecto es una aplicación web creada con **React** y **TypeScript**, dise
 Primero, clona el repositorio en tu máquina local utilizando Git:
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/MisteryPoints/AppFotos/.git
 ```
 
 ### 2. **Instalar Dependencias**
 
 Dentro de la carpeta del proyecto, instala todas las dependencias necesarias utilizando **npm** (Node Package Manager). Abre una terminal y ejecuta:
 
-```bash
-cd tu-repositorio
+```bash 
 npm install
 ```
 
@@ -66,8 +65,7 @@ Esto generará los archivos de producción optimizados dentro de la carpeta `bui
 
 La estructura de las carpetas y archivos es la siguiente:
 
-```
-/tu-repositorio
+``` 
 │
 ├── /public             # Archivos públicos como imágenes y el HTML base
 ├── /src                # Código fuente de la aplicación
