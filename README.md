@@ -37,12 +37,12 @@ npm run dev
 Esto iniciará un servidor de desarrollo y abrirá la aplicación en tu navegador por defecto, generalmente en la URL:
 
 ```
-http://localhost:3000
+http://localhost:5173
 ```
 
 ### 4. **Verificar el Funcionamiento**
 
-Abre tu navegador y visita la dirección **http://localhost:3000** para verificar que todo esté funcionando correctamente.
+Abre tu navegador y visita la dirección **http://localhost:5173** para verificar que todo esté funcionando correctamente.
 
 ### 5. **Compilar para Producción (Opcional)**
 
@@ -81,7 +81,7 @@ La estructura de las carpetas y archivos es la siguiente:
 ## ⚙️ **Comandos Útiles**
 
 - **`npm install`**: Instala las dependencias del proyecto.
-- **`npm run dev`**: Inicia el servidor de desarrollo en **http://localhost:3000**.
+- **`npm run dev`**: Inicia el servidor de desarrollo en **http://localhost:5173**.
 - **`npm run build`**: Compila el proyecto para producción.
 - **`npm run lint`**: Ejecuta el linter para verificar el código.
 - **`npm run format`**: Formatea el código fuente con Prettier.
