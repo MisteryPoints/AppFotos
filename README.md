@@ -13,7 +13,7 @@ Este proyecto es una aplicación web creada con **React** y **TypeScript**, dise
 Primero, clona el repositorio en tu máquina local utilizando Git:
 
 ```bash
-git clone https://github.com/MisteryPoints/AppFotos/.git
+git clone https://github.com/MisteryPoints/AppFotos.git
 ```
 
 ### 2. **Instalar Dependencias**
